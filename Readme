@@ -1,0 +1,1 @@
+This money_maker should pull financial data from some sources and analyze with provided rules. Then make a trading decision and send the order to a broker.
